@@ -1,0 +1,11 @@
+.one {
+  background-color: rgb(0, 255, 179);
+  color: rgb(142, 18, 113);
+  border: 2px solid black;
+  margin: 2px;
+  padding: 2px;
+  width: 200px;
+}
+.two {
+  color: hotpink;}
+        h1 { color: hotpink;}
